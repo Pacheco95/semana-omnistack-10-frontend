@@ -27,7 +27,7 @@ li.dev-item header .user-info {
   color: #333;
 }
 
-.user-info spam {
+.user-info span {
   font-size: 13px;
   color: #999;
   margin-top: 2px;
